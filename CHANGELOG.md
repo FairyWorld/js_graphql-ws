@@ -1,5 +1,11 @@
 # graphql-ws
 
+## 6.2.3
+
+### Patch Changes
+
+- [#693](https://github.com/enisdenjo/graphql-ws/pull/693) [`c41433e`](https://github.com/enisdenjo/graphql-ws/commit/c41433e8ae07cdab30978d9cfce4e5f86f9b7dc5) Thanks [@smnbbrv](https://github.com/smnbbrv)! - fix the client leaking memory per operation on long-living connections
+
 ## 6.2.2
 
 ### Patch Changes
